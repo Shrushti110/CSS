@@ -1,0 +1,13 @@
+
+.web { 
+	font-size: 60px; 
+    background-color:coral;
+	color: green;
+    width:350px; 
+    height:60px;
+} 
+
+#comp { 
+	font-size: 25px; 
+	color:mediumseagreen; 
+};
